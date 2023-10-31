@@ -1,5 +1,5 @@
 # READ IT
-html | css | js | projects
+html | css 
 
 This is the project of Gym-site.
 I created it using html and tailwind css.
